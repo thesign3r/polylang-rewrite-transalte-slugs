@@ -1,12 +1,7 @@
 Polylang - Translate URL Rewrite Slugs
 ===============================================================================
-WordPress plugin that add rewrite url slugs translation feature to Polylang.
 
-Work in progress ;)
-
-Upgrade notice < 0.3.0
--------------------------------------------------------------------------------
-If you used a version prior to 0.3.0, the plugin will probably crash as the structure of the param for the "pll_translated_post_type_rewrite_slugs" filter has changed.
+[working version of /KLicheR/wp-polylang-translate-rewrite-slugs](https://github.com/KLicheR/wp-polylang-translate-rewrite-slugs "KLicheR plugin")
 
 Translate Post Type URLs
 -------------------------------------------------------------------------------
